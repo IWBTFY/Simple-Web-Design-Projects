@@ -11,7 +11,7 @@
 ---
 ---
 ### Stay tuned for future projects
-### **Note:** I highly suggest to use these project as method to practice and inspire.
-I wil not be responsible for any misuse of these code. so please for your own good try to learn from it and for any improvements  or help you can email me:
+### **Note:** I highly suggest to use these project as method to practice and inspire for  new ideas.
+I wil not be responsible for any misuse of this repo. so please for your own good try to learn from it and for any improvements  or help you can email me:
 
 ## poya.faraji@outlook.com
