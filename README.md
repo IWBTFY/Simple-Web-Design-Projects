@@ -15,3 +15,7 @@
 I wil not be responsible for any misuse of this repo. so please for your own good try to learn from it and for any improvements  or help you can email me:
 
 ## poya.faraji@outlook.com
+-----------
+-----------
+
+## I don't own any of the images and so make sure all right are reserved©. 
