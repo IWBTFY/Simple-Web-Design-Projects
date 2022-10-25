@@ -5,7 +5,7 @@
 ## Projects include new responsive web design project of [freecodecamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
 ### Currently, accomplished one that can actually pass the test is:
-- [1] [Survey Form](https://simple-web.w3spaces.com)
+- [1] [Survey Form](#)
 
 
 ---
