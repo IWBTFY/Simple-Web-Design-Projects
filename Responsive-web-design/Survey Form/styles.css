@@ -1,80 +1,74 @@
 body {
-    font-family: sans-serif;
-    color: white;
-    height: 100%;
-    background-image: url("https://i.postimg.cc/3JtdHBtk/NYC.jpg");
-    background-attachment: fixed;
-    background-position: center;
-    background-size: cover;
-
-
+  font-family: sans-serif;
+  color: white;
+  height: 100%;
+  background-image: url("https://i.postimg.cc/3JtdHBtk/NYC.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
 }
-
-
 
 #description,
 #title {
-    text-align: center;
-    padding: 0;
-    color: black;
+  text-align: center;
+  padding: 0;
+  color: black;
 }
 
 #survey-form {
-    display: flex;
-    flex-direction: column;
-    margin-right: auto;
-    margin-left: auto;
-    border-radius: 2%;
-    width: 50%;
-    background-color: #1b1b32cc;
-    opacity: 0.9;
-
+  display: flex;
+  flex-direction: column;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 22px;
+  width: 50%;
+  background-color: #1b1b32cc;
+  opacity: 0.9;
 }
 
 label {
-    font-weight: bold;
-    font-size: 21px;
-    display: block;
-    padding-left: 7%;
-    margin-top: 2%;
-    margin-bottom: 1%;
+  font-weight: bold;
+  font-size: 21px;
+  display: block;
+  padding-left: 7%;
+  margin-top: 2%;
+  margin-bottom: 1%;
 }
 
 #email,
 #name,
 #number,
 #dropdown {
-    margin-left: auto;
-    margin-right: auto;
-    width: 85%;
-    height: 2.256rem;
-
+  margin-left: auto;
+  margin-right: auto;
+  width: 85%;
+  height: 2.256rem;
 }
 
-
 p {
-    padding-top: 4%;
-    padding-left: 7%;
-    font-weight: bold;
-    font-size: 21px;
+  padding-top: 4%;
+  padding-left: 7%;
+  font-weight: bold;
+  font-size: 21px;
 }
 
 #textarea {
-    width: 85%;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 4%
+  width: 85%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 4%;
 }
 
 #submit {
-    width: 86%;
-    padding: 2%;
-    margin-right: auto;
-    margin-left: auto;
-    margin-bottom: 5%;
-    background-color: #37af65;
-    font-weight: bold;
-    font-size: 20px;
+  cursor: pointer;
+  width: 86%;
+  padding: 2%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 5%;
+  background-color: #37af65;
+  font-weight: bold;
+  font-size: 20px;
 }
 
 /* image 
