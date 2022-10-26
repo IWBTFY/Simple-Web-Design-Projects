@@ -19,4 +19,4 @@ I wil not be responsible for any misuse of this repo. so please for your own goo
 -----------
 -----------
 
-## I don't own any of the images and so make sure all right are reserved©. 
+## I don't own any of the images and make sure all right are reserved©. 
