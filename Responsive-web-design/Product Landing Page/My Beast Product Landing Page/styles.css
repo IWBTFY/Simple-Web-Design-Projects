@@ -1,0 +1,133 @@
+body,
+html {
+  height: 100%;
+  background-color: #fda7df;
+  padding: 0;
+  margin: 0;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+#header {
+  position: fixed;
+  display: flex;
+  top: 0;
+  width: 100%;
+  min-height: 75px;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fda7df;
+  border-bottom: rgb(0, 172, 215) 2px solid;
+}
+
+#header-ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  gap: 40px;
+  margin-right: 50px;
+}
+
+li {
+  line-height: 30px;
+}
+a {
+  font-size: 22px;
+  text-decoration: none;
+  color: rgb(0, 172, 215);
+}
+
+#header-img {
+  margin-left: 50px;
+  width: 100%;
+  max-width: 300px;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top: rgb(0, 172, 215) 2px solid;
+  min-height: 60px;
+}
+
+#BestBeast-img {
+  border-radius: 10%;
+  width: 550px;
+  height: 500px;
+}
+
+#section1,
+#section2,
+#section3,
+#section4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 25px;
+}
+#section1 p {
+  max-width: 550px;
+}
+
+#section5 {
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  text-align: center;
+}
+
+#section5 img {
+  margin-top: 10px;
+  border-radius: 50%;
+}
+/* chanel_items */
+.chanel_items {
+  background-color: #fff3f1;
+  width: 300px;
+  border: rgb(0, 172, 215) 2px solid;
+  margin-bottom: 40px;
+  border-radius: 12px;
+  opacity: 0.8;
+}
+.chanel_items p {
+  max-width: 260px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button {
+  background-color: rgb(230, 31, 23);
+  color: #fff3f1;
+  margin-bottom: 15px;
+  max-width: 250px;
+  height: 25px;
+  cursor: pointer;
+  border: none;
+}
+#submit {
+  background-color: green;
+  border: none;
+  opacity: 0.8;
+  color: white;
+  width: 100px;
+  height: 22px;
+  cursor: pointer;
+}
+
+#form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+#section1 {
+  margin-top: 80px;
+}
+
+@media (max-width: 550px) {
+  header {
+    flex-wrap: wrap;
+  }
+}
