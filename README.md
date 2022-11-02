@@ -8,7 +8,7 @@
 - [1] [Survey Form](https://github.com/IWBTFY/Simple-Web-Design-Projects/tree/main/Responsive-web-design/Survey%20Form)
 - [2] [Tribute Page](https://github.com/IWBTFY/Simple-Web-Design-Projects/tree/main/Responsive-web-design/Tribute%20Page)
 - [3] [Technical Documentation Page](https://github.com/IWBTFY/Simple-Web-Design-Projects/tree/main/Responsive-web-design/Technical%20Documentation%20Page)
-
+- [4] [Product Landing Page](https://github.com/IWBTFY/Simple-Web-Design-Projects/tree/main/Responsive-web-design/Product%20Landing%20Page/My%20Beast%20Product%20Landing%20Page)
 ---
 ---
 ### Stay tuned for future projects
