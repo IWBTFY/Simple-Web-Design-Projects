@@ -4,7 +4,7 @@
 
 ## Projects include new responsive web design project of [freecodecamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
-### Currently, accomplished ones that can actually pass the test are:
+### All the main projects are done and can pass the testing system. 🦥 
 - [1] [Survey Form](https://github.com/IWBTFY/Simple-Web-Design-Projects/tree/main/Responsive-web-design/Survey%20Form)
 - [2] [Tribute Page](https://github.com/IWBTFY/Simple-Web-Design-Projects/tree/main/Responsive-web-design/Tribute%20Page)
 - [3] [Technical Documentation Page](https://github.com/IWBTFY/Simple-Web-Design-Projects/tree/main/Responsive-web-design/Technical%20Documentation%20Page)
