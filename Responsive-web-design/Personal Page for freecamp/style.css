@@ -1,0 +1,121 @@
+@import url("https://fonts.googleapis.com/css2?family=Island+Moments&display=swap");
+:root {
+  --font-f: "Island Moments", cursive;
+}
+
+body {
+  font-family: var(--font-f);
+  font-size: 22px;
+  font-weight: bold;
+}
+body,
+html {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  color: white;
+}
+
+img,
+ul,
+li,
+a {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  text-decoration: none;
+}
+
+body {
+  /* Hardest Part 😹 */
+  background-image: url("https://i.postimg.cc/26Yh7J9P/Back-Ground-IMage.jpg");
+  /* background-image: url("Images/BackGroundIMage.jpg"); */
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.logo {
+  margin-left: 40px;
+  width: 200px;
+  height: 50px;
+}
+.logo:hover {
+  cursor: pointer;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#about-link {
+  margin-left: 200px;
+}
+
+nav ul {
+  margin-right: 40px;
+}
+nav ul a {
+  margin-right: 15px;
+  color: white;
+}
+nav ul a:hover {
+  color: rgb(122, 146, 174);
+}
+#welcome-section img {
+  width: 200px;
+  height: 200px;
+}
+#welcome-section,
+.info {
+  font-family: "Courier New", Courier, monospace;
+  font-size: small;
+  color: yellow;
+  margin-top: 200px;
+  margin-bottom: 200px;
+  text-align: center;
+}
+
+.project-tile iframe {
+  border-radius: 20px;
+}
+
+.footer {
+  display: flex;
+  height: 85px;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color: #e5e7eb;
+}
+
+.project-tile button a {
+  color: white;
+}
+.project-tile button {
+  margin-top: 20px;
+  width: 200px;
+  height: 40px;
+  background-color: rgb(6, 149, 63);
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+}
+
+.project-tile button:hover {
+  background-color: rgba(6, 149, 63, 0.5);
+}
+
+@media only screen and (max-width: 650px) {
+  body {
+    background-image: url("https://i.postimg.cc/DZ74XG8h/Mobile-Background.jpg");
+    /* background-image: url("Images/MobileBackground.jpg"); */
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+  }
+}
